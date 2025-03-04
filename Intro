@@ -1,0 +1,16 @@
+NextJS:
+
+Next.js is a React framework that enables server-side rendering (SSR), static site generation (SSG), 
+API routes, and many other advanced features. It is built on top of React and enhances it by providing better performance, 
+SEO benefits, and a structured development experience.
+
+Key features:
+1.SSR : Pages can be pre-rendered on server & sent to the client , improving performance and SEO. 
+
+2. SSG: Nextjs can generate static pages at build time, making them super fast. 
+
+3.Hybrid Rendering: You can choose SSR or SSG on a per-page basis, offering flexibility.
+
+4.Built-in Image Optimization: Next.js provides automatic image optimization using the <Image> component.
+
+5. Automatic Code Splitting: Loads only the required JavaScript for each page, improving performance.
